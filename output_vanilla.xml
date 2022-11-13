@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<timetable type="list">
+<lesson type="dict">
+	<time type="str">10:00-11:30</time>
+	<weeks>
+		<item type="int">2</item>
+		<item type="int">4</item>
+		<item type="int">6</item>
+		<item type="int">8</item>
+		<item type="int">10</item>
+		<item type="int">12</item>
+		<item type="int">14</item>
+		<item type="int">16</item>
+	</weeks>
+	<auditory type="str">1124 ауд.</auditory>
+	<corp type="str">ул.Ломоносова, д.9, лит. М</corp>
+	<name type="str">Программирование(Лек)</name>
+	<teacher type="str">Письмак Алексей Евгеньевич</teacher>
+	<format type="str">Очно - дистанционный</format>
+</lesson>
+<lesson type="dict">
+	<time type="str">10:00-11:30</time>
+	<weeks>
+		<item type="int">3</item>
+		<item type="int">7</item>
+		<item type="int">9</item>
+		<item type="int">11</item>
+		<item type="int">13</item>
+		<item type="int">15</item>
+		<item type="int">17</item>
+	</weeks>
+	<auditory type="str"></auditory>
+	<corp type="str">ул.Ломоносова, д.9, лит. М</corp>
+	<name type="str">Основы профессиональной деятельности(Лек): актовый зал</name>
+	<teacher type="str">Клименков Сергей Викторович</teacher>
+	<format type="str">Очно - дистанционный</format>
+</lesson>
+<lesson type="dict">
+	<time type="str">10:00-11:30</time>
+	<weeks>
+		<item type="int">5</item>
+	</weeks>
+	<auditory type="str"></auditory>
+	<corp type="str"></corp>
+	<name type="str">Основы профессиональной деятельности(Лек): ZOOM</name>
+	<teacher type="str">Клименков Сергей Викторович</teacher>
+	<format type="str">Дистанционный</format>
+</lesson>
+</timetable>
